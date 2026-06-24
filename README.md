@@ -26,8 +26,8 @@ start index.html  # Windows
 ```
 task-manager/
 ├── index.html   # HTML structure
-├── style.css    # All styles
-├── script.js    # All JavaScript logic
+├── index.css    # All styles
+├── index.js     # All JavaScript logic
 └── README.md
 ```
 
@@ -36,8 +36,8 @@ task-manager/
 | Layer      | File        | What it does                                      |
 |------------|-------------|---------------------------------------------------|
 | HTML       | index.html  | Semantic structure — input, button, ul, li        |
-| CSS        | style.css   | Flexbox layout, transitions, strikethrough effect |
-| JavaScript | script.js   | DOM manipulation, event handling, task state      |
+| CSS        | index.css   | Flexbox layout, transitions, strikethrough effect |
+| JavaScript | index.js    | DOM manipulation, event handling, task state      |
 
 ## Concepts Demonstrated
 
